@@ -34,7 +34,14 @@
 
 ###
 
-<p align="left">I'm Daniel Fernández, forest engineer from Spain<br><br>- 🔭 I’m working as Project Technician for ecological restornation<br>- 📚 I'm currently learning Machine and Deep learning, as well as image analysis<br>- ⚡ In my free time I (try) to develop small projects!</p>
+<p align="left">
+I'm <b>Daniel Fernández</b> — Geospatial Data Engineer based in Spain 🇪🇸<br><br>
+- 🛰️ I build automated data pipelines & spatial infrastructures (Python · PostGIS · LiDAR · Remote Sensing)<br>
+- 🌲 Turning environmental & forestry data into scalable, reproducible workflows<br>
+- ⚙️ Stack: Python (Polars · GeoPolars · Xarray · GeoPandas), PostgreSQL/PostGIS, Docker, GitHub Actions, GDAL, H3<br>
+- 📚 Pursuing the IBM Data Engineering Professional Certificate<br>
+- ⚡ I turn manual GIS processes into end-to-end automated tools (CLI, Dash & QGIS plugins)
+</p>
 
 ###
 
